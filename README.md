@@ -15,7 +15,7 @@ Tasks to complete within the `IfStatements.java` file:
 - [ ] Revise the  method named `exercise3` so that it returns the correct String value.
 
 ## Running Tests and Committing
-If you look within the `src/test/java` folder, you will find the Java class `ParrotTest.java`. The `src/test/java` folder will contain your test files.  To run the tests, click on the Testing tab (test beaker icon on the left-hand side) and run the test cases by using the "Run Test" button (play icon). Please ensure that you do not already have the program running. 
+The `src/test/java` folder will contain your test files.  To run the tests, click on the Testing tab (test beaker icon on the left-hand side) and run the test cases by using the "Run Test" button (play icon). Please ensure that you do not already have the program running. 
 
 After running the tests, if all the test cases pass, you can commit your work using the Version Control tab. In the Version Control tab, enter a commit message, and then press the Commit button. If asked to stage your changes, please do so. Lastly, wait until the `history_log.txt` file appears before navigating back to RevaturePro.
 
