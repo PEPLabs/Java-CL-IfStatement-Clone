@@ -37,7 +37,7 @@ public class IfStatements {
      * To check if a value is divisible by another, use the modulo operator (%) to check if the remainder is zero.
      * 
      * @param year - an integer representing a year.
-     * @return - "Yes", "No", or "Not quite!" depending on the input. 
+     * @return - "Yes", "No", or "Not quite" depending on the input. 
      */
     public String exercise3(int year) {
         return null;
